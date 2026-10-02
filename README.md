@@ -173,7 +173,7 @@ end)
 -- GUI
 -------------------------------------------------
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "FluxPingLagger"
+screenGui.Name = "IblisPingLagger"
 screenGui.ResetOnSpawn = false
 screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 screenGui.Parent = playerGui
