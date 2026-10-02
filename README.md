@@ -200,7 +200,7 @@ stroke.Parent = frame
 local bgImage = Instance.new("ImageLabel")
 bgImage.Size = UDim2.new(1, 0, 1, 0)
 bgImage.BackgroundTransparency = 1
-bgImage.Image = "rbxassetid://86667711139501"
+bgImage.Image = "rbxassetid://133146589354241"
 bgImage.ScaleType = Enum.ScaleType.Stretch
 bgImage.Parent = frame
 
