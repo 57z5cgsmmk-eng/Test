@@ -1,4 +1,4 @@
--- FLUX PING LAGGER 180x240 | Compact + Sliding Auto Activate
+-- IBLIS PING LAGGER 180x240 | Compact + Sliding Auto Activate
 local Players          = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local HttpService      = game:GetService("HttpService")
