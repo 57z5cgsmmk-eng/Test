@@ -4,7 +4,6 @@ local UserInputService = game:GetService("UserInputService")
 local HttpService      = game:GetService("HttpService")
 local RunService       = game:GetService("RunService")
 local TweenService     = game:GetService("TweenService")
-bgImage.Image = "rbxassetid://133146589354241"
 
 local plr = Players.LocalPlayer
 local playerGui = plr:WaitForChild("PlayerGui")
